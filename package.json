@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+	"express": "~3.4.4",
+	"twilio": "1.6.0"
+  },
+  "devDependencies": {},
+  "bundleDependencies": [],
+
+  "private": true,
+  "main": "server.js"
+}
